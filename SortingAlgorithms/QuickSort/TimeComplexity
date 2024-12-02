@@ -1,0 +1,6 @@
+Time Complexity
+
+Worst : 0(n^2)// Worst case is occurs when pivot is always smallest  or the largest element.
+Average : 0(nlogn)
+
+We can use because we cannot use any external array like merge sort.
